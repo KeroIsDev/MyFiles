@@ -1,10 +1,5 @@
 {
 "serverstatus":"true",
-"noticemode":"true",
-"dataclearmode":"false",
-"servermeassage":"wait........",
-"opentime":"wait.......",
 "libs":"https://github.com/KeroIsDev/MyFiles/raw/refs/heads/main/libkero.zip",
-"notice_title":"welcom to Hacks Kero",
-"notice_body":"",
+"notice_title":"welcom to Hacks Kero"
 }
