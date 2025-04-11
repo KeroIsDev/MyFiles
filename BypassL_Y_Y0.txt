@@ -1,1 +1,1 @@
-MemoryPatch::createWithHex("libTDataMaster.so",0x64854,"1E FF 2F E1").Modify();
+std::string(("libanogs.so"), 0x1D3567 , "00 00 00 00)";
