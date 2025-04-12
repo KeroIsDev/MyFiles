@@ -1,1 +1,2 @@
-std::string(("libanogs.so"), 0x1D3567 , "00 00 00 00)";
+MemoryPatch::createWithHex("libTDataMaster.so",0x64854,"1E FF 2F E1").Modify();
+draw->AddText({ ((float) density / 9.0f), 70 }, IM_COL32(255, 255, 0, 255), OBFUSCATE("Online Now Working Enjoy"));
